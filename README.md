@@ -4,7 +4,7 @@
   <title>むーくの好きだった映画リスト</title>
   <style>
     body {
-      background-color: #d9ffc9;
+      background-color: #D9F3CC;
     }
   </style>
 </head>
